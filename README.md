@@ -7,6 +7,11 @@ I am a developer who is passionate about stuff like Bussiness Intelligence and D
 - 😊 Willing to contribute in opensource projects.
 - 👍 Looking for opportunities to join as an intern/full time candidate in machine learning/deep learning research teams.
 
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alinasahoo&show_icons=true&theme=highcontrast&&count_private=true&hide=stars" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinasahoo&layout=compact&theme=highcontrast&langs_count=6" />
+</a>
+</p>
 
 <details open>
 <summary>🤝 <b>To connect with me<b></summary>
