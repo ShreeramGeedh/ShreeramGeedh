@@ -8,8 +8,8 @@ I am a developer who is passionate about stuff like Bussiness Intelligence and D
 - 👍 Looking for opportunities to join as an intern/full time candidate in machine learning/deep learning research teams.
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alinasahoo&show_icons=true&theme=highcontrast&&count_private=true&hide=stars" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinasahoo&layout=compact&theme=highcontrast&langs_count=6" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ShreeramGeedh&show_icons=true&theme=highcontrast&&count_private=true&hide=stars" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreeramGeedh&layout=compact&theme=highcontrast&langs_count=6" />
 </a>
 </p>
 
