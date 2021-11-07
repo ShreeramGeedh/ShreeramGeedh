@@ -1,6 +1,6 @@
 ## Hi 👋 I am Shreeram Geedh
 
-I am a developer who is passionate about stuff like Bussiness Intelligence and Data Science. Few tech that I enjoy working in, Python, Django, SQL, and  java. I play football.
+I am a developer who is passionate about stuff like Bussiness Intelligence and Data Science. Few tech that I enjoy working in, Python, Django, SQL, and  java.
 
 - 👨🏽‍💻 Currently working in Data Science ,Machine learning, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
